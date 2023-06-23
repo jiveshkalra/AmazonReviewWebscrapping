@@ -28,9 +28,6 @@ To use this web scraper, follow these steps:
 ## Output
 The output of the script is saved in a `output.csv` file. Each row in the CSV file represents a single review and contains the following information:
 
-- Reviewer name
-- Review date
-- Review rating
 - Review title
 - Review text
 
